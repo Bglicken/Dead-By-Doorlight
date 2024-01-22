@@ -1,4 +1,4 @@
-# Dead By Doorlight - Version 1.0
+# Dead By Doorlight - Version 1.0.2
 __Created By ProgramChimp and Bglicken__
 
 # Description
@@ -11,6 +11,11 @@ __Created By ProgramChimp and Bglicken__
 ### Typing "open/close" into the Text Chat while dead and spectating another player to open/close a door.
 
 # Change Log
+
+## [1.0.X]
+
+### - Updated README & GitHub for easier updating [1.0.2]
+### - Added Dependency to allow for spectators to type in chat [1.0.1]
 
 ## [1.0]
 ### - Initial Public Release Version
