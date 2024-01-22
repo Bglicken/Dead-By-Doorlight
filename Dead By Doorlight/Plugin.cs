@@ -31,9 +31,9 @@ namespace Dead_By_Doorlight
 
             mls = BepInEx.Logging.Logger.CreateLogSource(modGUID);
 
-            mls.LogInfo("Balls");
-
-            harmony.PatchAll(typeof(ModBase));        }
+            harmony.PatchAll(typeof(ModBase));
+            harmony.PatchAll(typeof(Patches));
+                }
     }
 
     

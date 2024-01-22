@@ -64,5 +64,13 @@
     <Compile Include="Plugin.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <Analyzer Include="D:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\core\0Harmony.dll" />
+    <Analyzer Include="D:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\core\BepInEx.dll" />
+    <Analyzer Include="D:\SteamLibrary\steamapps\common\Lethal Company\Lethal Company_Data\Managed\Assembly-CSharp.dll" />
+    <Analyzer Include="D:\SteamLibrary\steamapps\common\Lethal Company\Lethal Company_Data\Managed\UnityEngine.AccessibilityModule.dll" />
+    <Analyzer Include="D:\SteamLibrary\steamapps\common\Lethal Company\Lethal Company_Data\Managed\UnityEngine.CoreModule.dll" />
+    <Analyzer Include="D:\SteamLibrary\steamapps\common\Lethal Company\Lethal Company_Data\Managed\UnityEngine.dll" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
