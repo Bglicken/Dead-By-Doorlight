@@ -63,7 +63,7 @@ namespace Dead_By_Doorlight
 
 
 
-            recentMessage = chatMessage;
+            recentMessage = chatMessage.ToLower();
             mls.Log(LogLevel.Info, recentMessage);
 
             doorCodes = getDoorCodes();
