@@ -1,8 +1,8 @@
 {
     "name": "Dead_By_Doorlight",
-    "version_number": "1.0.1",
+    "version_number": "1.0.2",
     "website_url": "https://github.com/Bglicken/Dead-By-Doorlight.git",
-    "description": "***MOD IS CURRENTLY A WIP*** Open and close doors to spite the living",
+    "description": "Open & Close Doors to Spite The Living!",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100",
         "Kaguya-SpectatorChat-1.1.1"
