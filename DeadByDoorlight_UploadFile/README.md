@@ -14,6 +14,7 @@ __Created By ProgramChimp and Bglicken__
 
 ## [1.0.X]
 
+### - Updated GitHub Repository to Public [1.0.2]
 ### - Updated README & GitHub for easier updating [1.0.2]
 ### - Added Dependency to allow for spectators to type in chat [1.0.1]
 
@@ -21,4 +22,4 @@ __Created By ProgramChimp and Bglicken__
 ### - Initial Public Release Version
 ### - Ability for Dead Players To Open/Close Doors
 
-##### Last Updated: 1/21/24
+##### Last Updated: 1/23/24
